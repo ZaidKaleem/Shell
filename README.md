@@ -10,3 +10,8 @@ This program was made by my group partner and I as the final project for the Ope
 <li>If command entered by the user is “!” followed by a number of a command from the history (!num) then the corresponding command from the history will be executed.</li>
 
 </ol>
+
+<h3>Tool(s) Used</h3>
+<ul>
+<li>C</li>
+</ul>
