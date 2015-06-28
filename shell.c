@@ -1,6 +1,5 @@
 /*
- By: Naren Kukreja (103538516) & Zaid Kaleem (103619897)
- 
+
  Our program implements an interface for a shell by taking in a command from the user. The program then parses that command and executes it in a child process. Checks for the following cases are done before execution:
  
  1. If command entered by the user is “exit” then the program will stop.
